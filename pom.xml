@@ -7,6 +7,7 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.7.10</version>
 		<relativePath/> <!-- lookup parent from repository -->
+//changes by QA Ayaj
 	</parent>
 	<groupId>com.client</groupId>
 	<artifactId>ClientApplication</artifactId>
